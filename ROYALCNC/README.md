@@ -1,5 +1,4 @@
-# Royaloakap
---Author=Royaloakap--
+
 
 Quick start guide for your C2 project
 
@@ -77,4 +76,4 @@ This will download and install the dependencies required for your C2 project.
 Contribution and support
 To contribute to this project, please follow the contribution guidelines set by the maintainer. For support, open an issue on the project's GitHub page or contact the maintainer directly.
 
-By following these instructions, you should be able to compile and run your C2 project in Go. For any additional questions, please contact @royaloakap on telegram or on discord! (t.me/royal_faq), (discord.gg/royalc2).
+By following these instructions, you should be able to compile and run your C2 project in Go. For any additional questions or help , please contact @royaloakap on telegram or on discord! (t.me/royal_faq), (discord.gg/royalc2).
